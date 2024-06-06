@@ -51,4 +51,4 @@ the **arr.sort()** arrange numbers according to dictonary.
 -> [BAB, BD, CD, EC, H, J]
 -> [101, 13, 23, 42, 7, 9]
 ```
-![output](image.png)
+![output](./Output_Images/array_sorting.png)

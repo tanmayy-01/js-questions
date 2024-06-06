@@ -38,4 +38,4 @@ Example:
 hi
 bye // after 3 seconds
 ```
-![async_sleep_output](async_sleep_output.png)
+![async_sleep_output](./Output_Images/async_sleep_output.png)
